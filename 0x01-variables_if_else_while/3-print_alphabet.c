@@ -2,17 +2,16 @@
 
 /**
  * main - Entry point
- * printing alphabets
- * Return: Always 0 (success);
+ * lowercase and uppercase alphABET
+ * Return: Always 0 (Success);
 */
 int main(void)
 {
 	char a;
 
-	for (a = 'a'; a <= 'z'; a++)
+	for ( a = 'a'; a <= 'Z'; a++)
 	{
 		putchar(a);
 	}
 	putchar('\n');
-	return (0);
 }
