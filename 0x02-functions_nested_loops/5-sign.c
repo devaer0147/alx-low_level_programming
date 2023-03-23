@@ -1,10 +1,11 @@
 #include "main.h"
 
 /**
- * main - entry point
- * print_sign() - check sign of operand using if else statement
+ * print_sign - check sign of operand using if else statement
  * @n: operand to be checked
  *
+ * Description: the print_sign function determines
+ * if the operand iis positve negatyive or otherwise
  * Return:To return 1 if +ive, 0 if operand is 0, and -1 if -ive
  */
 int print_sign(int n)
