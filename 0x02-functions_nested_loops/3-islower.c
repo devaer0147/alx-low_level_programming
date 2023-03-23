@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
- * main - cheching for lower case
- *
- * Return: Always 0.
+ * _islower - cheching for lower case
+ * @c: operand to be checked
+ * Return: return 1 if true, otherwise 0.
  */
 int _islower(int c)
 {

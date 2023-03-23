@@ -25,4 +25,9 @@ void print_alphabet_x10(void);
  * Return: Always 0.
  */
 int _islower(int c);
+
+/**
+ * main - check is alhabet
+ */
+int _isalpha(int c);
 #endif
