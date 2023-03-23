@@ -30,4 +30,9 @@ int _islower(int c);
  * main - check is alhabet
  */
 int _isalpha(int c);
+
+/**
+ * main - checck to print operand sign
+ */
+int print_sign(int n);
 #endif
