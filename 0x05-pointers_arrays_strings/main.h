@@ -41,4 +41,9 @@ void rev_string(char *s);
  * main - prints n elements of an array pf integers. followed by a new line
  */
 void print_array(int *a, int n);
+
+/**
+ * main - function that copies the string from src to dest
+ */
+char *_strcpy(char *dest, char *src);
 #endif
