@@ -16,4 +16,14 @@ void swap_int(int *a, int *b);
  */
 int _strlen(char *s);
 
+/**
+ * main - print character
+ */
+void _putchar();
+
+/**
+ * main - prints a stringfollowed by new line
+ */
+void _puts(char *str);
+
 #endif
