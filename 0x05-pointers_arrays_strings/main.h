@@ -1,6 +1,7 @@
 #ifndef MAIN_H
 #define MAIN_H
 
+#include <stdio.h>
 /**
  * main - resets value to 98
  */
@@ -35,4 +36,9 @@ void print_rev(char *s);
  * main - reverses a string
  */
 void rev_string(char *s);
+
+/**
+ * main - prints n elements of an array pf integers. followed by a new line
+ */
+void print_array(int *a, int n);
 #endif
