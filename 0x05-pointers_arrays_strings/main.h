@@ -26,4 +26,9 @@ void _putchar();
  */
 void _puts(char *str);
 
+
+/**
+ * main - prints a string, in reverse, followed by a new line
+ * */
+void print_rev(char *s);
 #endif
