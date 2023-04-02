@@ -40,4 +40,10 @@ int print_sign(int n);
  * main - computes the absolute value of an integer
  */
 int _abs(int n);
+
+/**
+ * main - prints the last digit of given parameters
+ */
+int print_last_digit(int n);
+
 #endif
