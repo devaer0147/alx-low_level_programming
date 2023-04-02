@@ -1,6 +1,7 @@
 #ifndef MAIN_H
 #define MAIN_H
 
+#include <stdio.h>
 #include <ctype.h>
 /**
  * main - entry
@@ -60,4 +61,9 @@ void times_table(void);
  * main - print sum of two integers
  */
 int add(int a, int b);
+
+/**
+ * main - print all numbvers from n - 98 
+ */
+void print_to_98(int n);
 #endif
