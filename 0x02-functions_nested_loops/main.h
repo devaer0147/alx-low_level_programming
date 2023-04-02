@@ -35,4 +35,9 @@ int _isalpha(int c);
  * main - checck to print operand sign
  */
 int print_sign(int n);
+
+/**
+ * main - computes the absolute value of an integer
+ */
+int _abs(int n);
 #endif
