@@ -46,4 +46,8 @@ int _abs(int n);
  */
 int print_last_digit(int n);
 
+/**
+ * main - prints all the possible combination from the 24 hours time
+ */
+void jack_bauer(void);
 #endif
