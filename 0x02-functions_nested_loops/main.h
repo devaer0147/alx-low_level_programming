@@ -56,4 +56,8 @@ void jack_bauer(void);
  */
 void times_table(void);
 
+/**
+ * main - print sum of two integers
+ */
+int add(int a, int b);
 #endif
